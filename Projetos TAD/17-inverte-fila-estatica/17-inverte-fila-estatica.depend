@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1516790439 source:/media/bob/D202FB4902FB31593/backup 09-05-2017/Estudando algoritimo em C/Periodo_2/Projetos/17-inverte-fila-estatica/main.c
+	<stdio.h>
+	<stdlib.h>
+	"FilaEstatica.h"
+
+1516535566 /media/bob/D202FB4902FB31593/backup 09-05-2017/Estudando algoritimo em C/Periodo_2/Projetos/17-inverte-fila-estatica/FilaEstatica.h
+
+1516722290 source:/media/bob/D202FB4902FB31593/backup 09-05-2017/Estudando algoritimo em C/Periodo_2/Projetos/17-inverte-fila-estatica/FilaEstatica.c
+	<stdio.h>
+	<stdlib.h>
+	"FilaEstatica.h"
+

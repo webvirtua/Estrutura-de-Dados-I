@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1513095454 source:/media/bob/D202FB4902FB31591/backup 09-05-2017/Estudando algoritimo em C/Periodo_2/Projetos/area_retangulo/main.c
+	<stdio.h>
+	<stdlib.h>
+	"Retangulo.h"
+
+1513093406 /media/bob/D202FB4902FB31591/backup 09-05-2017/Estudando algoritimo em C/Periodo_2/Projetos/area_retangulo/Retangulo.h
+
+1513095269 source:/media/bob/D202FB4902FB31591/backup 09-05-2017/Estudando algoritimo em C/Periodo_2/Projetos/area_retangulo/Retangulo.c
+	<stdio.h>
+	<stdlib.h>
+	"Retangulo.h"
+

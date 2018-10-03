@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1519581549 source:/media/bob/D202FB4902FB31593/backup 09-05-2017/Estudando algoritimo em C/Periodo_2/Projetos/26-trabalho2-P4-remove-toda-lista/main.c
+	<stdio.h>
+	<stdlib.h>
+	"ListaDinEncadDupla.h"
+
+1519570839 /media/bob/D202FB4902FB31593/backup 09-05-2017/Estudando algoritimo em C/Periodo_2/Projetos/26-trabalho2-P4-remove-toda-lista/ListaDinEncadDupla.h
+
+1519581494 source:/media/bob/D202FB4902FB31593/backup 09-05-2017/Estudando algoritimo em C/Periodo_2/Projetos/26-trabalho2-P4-remove-toda-lista/ListaDinEncadDupla.c
+	<stdio.h>
+	<stdlib.h>
+	"ListaDinEncadDupla.h"
+

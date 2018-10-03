@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1516623203 source:/media/bob/D202FB4902FB31593/backup 09-05-2017/Estudando algoritimo em C/Periodo_2/Projetos/18-decola-aviao-fila-dinamica/Decola.c
+	<stdio.h>
+	<stdlib.h>
+	"Decola.h"
+
+1516562310 /media/bob/D202FB4902FB31593/backup 09-05-2017/Estudando algoritimo em C/Periodo_2/Projetos/18-decola-aviao-fila-dinamica/Decola.h
+
+1516623382 source:/media/bob/D202FB4902FB31593/backup 09-05-2017/Estudando algoritimo em C/Periodo_2/Projetos/18-decola-aviao-fila-dinamica/main.c
+	<stdio.h>
+	<stdlib.h>
+	"Decola.h"
+

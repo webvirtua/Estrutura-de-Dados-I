@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1516796906 source:/media/bob/D202FB4902FB31593/backup 09-05-2017/Estudando algoritimo em C/Periodo_2/Projetos/23-carros-estacionam-emersom/FilaEstatica.c
+	<stdio.h>
+	<stdlib.h>
+	"FilaEstatica.h"
+
+1516795830 /media/bob/D202FB4902FB31593/backup 09-05-2017/Estudando algoritimo em C/Periodo_2/Projetos/23-carros-estacionam-emersom/FilaEstatica.h
+
+1517322784 source:/media/bob/D202FB4902FB31593/backup 09-05-2017/Estudando algoritimo em C/Periodo_2/Projetos/23-carros-estacionam-emersom/main.c
+	<stdio.h>
+	<stdlib.h>
+	"FilaEstatica.h"
+	<string.h>
+

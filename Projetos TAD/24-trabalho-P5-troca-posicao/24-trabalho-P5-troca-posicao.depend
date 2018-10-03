@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1515614540 source:/media/bob/D202FB4902FB31593/backup 09-05-2017/Estudando algoritimo em C/Periodo_2/Projetos/24-trabalho-P5-troca-posicao/ListaSequencial.c
+	<stdio.h>
+	<stdlib.h>
+	"ListaSequencial.h"
+
+1518292780 /media/bob/D202FB4902FB31593/backup 09-05-2017/Estudando algoritimo em C/Periodo_2/Projetos/24-trabalho-P5-troca-posicao/ListaSequencial.h
+
+1518546807 source:/media/bob/D202FB4902FB31593/backup 09-05-2017/Estudando algoritimo em C/Periodo_2/Projetos/24-trabalho-P5-troca-posicao/main.c
+	<stdio.h>
+	<stdlib.h>
+	"ListaSequencial.h"
+
+1515614540 source:/media/bob/D202FB4902FB3159/backup 09-05-2017/Estudando algoritimo em C/Periodo_2/Projetos/24-trabalho-P5-troca-posicao/ListaSequencial.c
+	<stdio.h>
+	<stdlib.h>
+	"ListaSequencial.h"
+
+1518292780 /media/bob/D202FB4902FB3159/backup 09-05-2017/Estudando algoritimo em C/Periodo_2/Projetos/24-trabalho-P5-troca-posicao/ListaSequencial.h
+
+1518546807 source:/media/bob/D202FB4902FB3159/backup 09-05-2017/Estudando algoritimo em C/Periodo_2/Projetos/24-trabalho-P5-troca-posicao/main.c
+	<stdio.h>
+	<stdlib.h>
+	"ListaSequencial.h"
+

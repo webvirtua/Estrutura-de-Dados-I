@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1513432216 source:/media/bob/D202FB4902FB31591/backup 09-05-2017/Estudando algoritimo em C/Periodo_2/Projetos/6-TAD/main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"Tad.h"
+
+1513432230 /media/bob/D202FB4902FB31591/backup 09-05-2017/Estudando algoritimo em C/Periodo_2/Projetos/6-TAD/Tad.h
+
+1513432227 source:/media/bob/D202FB4902FB31591/backup 09-05-2017/Estudando algoritimo em C/Periodo_2/Projetos/6-TAD/Tad.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"Tad.h"
+

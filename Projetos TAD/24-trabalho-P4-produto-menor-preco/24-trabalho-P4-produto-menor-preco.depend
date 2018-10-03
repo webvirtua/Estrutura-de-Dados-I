@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1518302641 source:/media/bob/D202FB4902FB31593/backup 09-05-2017/Estudando algoritimo em C/Periodo_2/Projetos/24-trabalho-P4-produto-menor-preco/ListaDinEncad.c
+	<stdio.h>
+	<stdlib.h>
+	"ListaDinEncad.h"
+
+1518302360 /media/bob/D202FB4902FB31593/backup 09-05-2017/Estudando algoritimo em C/Periodo_2/Projetos/24-trabalho-P4-produto-menor-preco/ListaDinEncad.h
+
+1518443616 source:/media/bob/D202FB4902FB31593/backup 09-05-2017/Estudando algoritimo em C/Periodo_2/Projetos/24-trabalho-P4-produto-menor-preco/main.c
+	<stdio.h>
+	<stdlib.h>
+	"ListaDinEncad.h"
+

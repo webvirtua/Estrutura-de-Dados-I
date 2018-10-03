@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1514571096 source:/media/bob/D202FB4902FB31591/backup 09-05-2017/Estudando algoritimo em C/Periodo_2/Projetos/14-sequencia_bem_formada_ABbCAaca/PilhaDin.c
+	<stdio.h>
+	<stdlib.h>
+	"PilhaDin.h"
+
+1514570963 /media/bob/D202FB4902FB31591/backup 09-05-2017/Estudando algoritimo em C/Periodo_2/Projetos/14-sequencia_bem_formada_ABbCAaca/PilhaDin.h
+
+1514571055 source:/media/bob/D202FB4902FB31591/backup 09-05-2017/Estudando algoritimo em C/Periodo_2/Projetos/14-sequencia_bem_formada_ABbCAaca/main.c
+	<stdio.h>
+	<stdlib.h>
+	"PilhaDin.h"
+
+1516545100 source:/media/bob/D202FB4902FB31593/backup 09-05-2017/Estudando algoritimo em C/Periodo_2/Projetos/14-sequencia_bem_formada_ABbCAaca/main.c
+	<stdio.h>
+	<stdlib.h>
+	"PilhaDin.h"
+
+1514570963 /media/bob/D202FB4902FB31593/backup 09-05-2017/Estudando algoritimo em C/Periodo_2/Projetos/14-sequencia_bem_formada_ABbCAaca/PilhaDin.h
+
+1516545089 source:/media/bob/D202FB4902FB31593/backup 09-05-2017/Estudando algoritimo em C/Periodo_2/Projetos/14-sequencia_bem_formada_ABbCAaca/PilhaDin.c
+	<stdio.h>
+	<stdlib.h>
+	"PilhaDin.h"
+
